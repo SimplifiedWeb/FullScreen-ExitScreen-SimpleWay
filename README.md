@@ -1,4 +1,6 @@
 # FullScreen-ExitScreen-SimpleWay
+# Understand the logic how it is implemented.
+Check out Demo: https://simplifiedweb.github.io/FullScreen-ExitScreen-SimpleWay/ 
 So Basically I make a project of fullscreen and ExitScreen elements. so basically the general idea should be same to make anything Fullscreen. So I'll explain You in Simple Term 
 
 So Listen whenever we are talking about or thinking that when we Click a button or something, it's give us information or something like that... just make sure we have
